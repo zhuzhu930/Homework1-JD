@@ -1,6 +1,7 @@
 # Homework1-Jessie Doherty
 
-URL: https://github.com/zhuzhu930/Homework1-JD
+Repo URL: https://github.com/zhuzhu930/Homework1-JD
+Webpage URL: https://zhuzhu930.github.io/Homework1-JD/
 
 For my first homework, I've done the following steps:
 
