@@ -15,14 +15,15 @@ For my first homework, I've done the following steps:
 In HTML, I've made the following changes:
 
 - changing the <title> content into "Horiseon Website", though this part won't show on the page, it makes the computer know more about what this file is about.
-- changing the <div> tags in the the header part into <header> tag. Changing the <ul> tags into <menu> tag. Changing the <li> tags into <button> tag. The reason for the change is: this is a header, so <header> tag is more appropriate. <ul> and <li> can make an unordered list, but they're listed with bullet points, not like the <menu> and <button> combination that can present all 3 buttons horizontally. I've also made changes to the CSS in this part to match the selectors and sytles.
+- changing the <div> tags in the header part into <header> tag. Changing the nested <div> tags into <nav> tag to show the 3 links in the navigation bar. I've also made corresponding changes in the CSS file.
+- changing the <div> with id="hero" into a more proper <img> tag with source link.
 - According to the w3schools, the typical layout of a webpage is:
   ![](./assets/images/webpagelayout.png)
-  So I made the left part with 3 sections, by using <section> tags. In the first <section>, I need to add an "id" for "search-engine-optimization" so it links with the header button.
+  So I made the left part into a section, by using <section> tag. In the first <div>, I need to add an "id" for "search-engine-optimization" so it links to the navigation menu.
 - According to the layout I've shown above, I've made the right part into a side bar by using <aside> tag.
 - According to the layout picture, I've changed the last <div> into <footer> since this part serves as a footer of the page.
 
-# 3. Review all changes I've made to make sure it meets the criteria.
+# 3. Review all changes I've made to make sure they meet the criteria.
 
 # 4. Adding comments in HTML for reviewers.
 
